@@ -1,0 +1,6 @@
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB3\bin\Debug\ZMQ_SUB3.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB3\bin\Debug\ZMQ_SUB3.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB3\bin\Debug\clrzmq.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB3\obj\Debug\ZMQ_SUB3.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB3\obj\Debug\ZMQ_SUB3.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB3\obj\Debug\ZMQ_SUB3.csprojResolveAssemblyReference.cache

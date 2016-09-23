@@ -1,0 +1,15 @@
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\obj\Debug\ZMQ_SUB2.csprojResolveAssemblyReference.cache
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\ZMQ_SUB2.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\ZMQ_SUB2.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\obj\Debug\ZMQ_SUB2.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\obj\Debug\ZMQ_SUB2.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\amd64\libzmq.so
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\amd64\libzmq.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\amd64\libsodium.so
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\amd64\libsodium.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\i386\libzmq.so
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\i386\libzmq.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\i386\libsodium.so
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\i386\libsodium.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\ZeroMQ.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB2\bin\Debug\clrzmq.dll

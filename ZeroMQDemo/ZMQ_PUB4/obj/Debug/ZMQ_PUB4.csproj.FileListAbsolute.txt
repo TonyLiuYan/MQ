@@ -1,0 +1,6 @@
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_PUB4\obj\Debug\ZMQ_PUB4.csprojResolveAssemblyReference.cache
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_PUB4\bin\Debug\ZMQ_PUB4.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_PUB4\bin\Debug\ZMQ_PUB4.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_PUB4\bin\Debug\clrzmq.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_PUB4\obj\Debug\ZMQ_PUB4.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_PUB4\obj\Debug\ZMQ_PUB4.pdb

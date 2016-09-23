@@ -1,0 +1,6 @@
+E:\VisualStudioCode\ZeroMQDemo\ZeroMQDemo\bin\Debug\ZeroMQDemo.exe.config
+E:\VisualStudioCode\ZeroMQDemo\ZeroMQDemo\bin\Debug\ZeroMQDemo.exe
+E:\VisualStudioCode\ZeroMQDemo\ZeroMQDemo\bin\Debug\ZeroMQDemo.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZeroMQDemo\obj\Debug\ZeroMQDemo.csprojResolveAssemblyReference.cache
+E:\VisualStudioCode\ZeroMQDemo\ZeroMQDemo\obj\Debug\ZeroMQDemo.exe
+E:\VisualStudioCode\ZeroMQDemo\ZeroMQDemo\obj\Debug\ZeroMQDemo.pdb

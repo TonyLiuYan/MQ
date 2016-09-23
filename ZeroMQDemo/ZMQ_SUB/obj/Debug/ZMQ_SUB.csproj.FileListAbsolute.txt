@@ -1,0 +1,5 @@
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB\bin\Debug\ZMQ_SUB.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB\bin\Debug\ZMQ_SUB.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB\bin\Debug\clrzmq.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB\obj\Debug\ZMQ_SUB.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_SUB\obj\Debug\ZMQ_SUB.pdb

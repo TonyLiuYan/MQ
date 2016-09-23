@@ -1,0 +1,7 @@
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\bin\Debug\ZMQ_REQ.exe.config
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\bin\Debug\ZMQ_REQ.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\bin\Debug\ZMQ_REQ.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\bin\Debug\clrzmq.dll
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\obj\Debug\ZMQ_REQ.exe
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\obj\Debug\ZMQ_REQ.pdb
+E:\VisualStudioCode\ZeroMQDemo\ZMQ_REQ\obj\Debug\ZMQ_REQ.csprojResolveAssemblyReference.cache
